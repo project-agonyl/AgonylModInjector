@@ -1,0 +1,10 @@
+﻿[
+  {
+    "ExecutableName": "ZoneServer.exe",
+    "DllPath": "D:\\a3server\\7ZoneServer\\OpenZoneServerMods.dll"
+  },
+  {
+    "ExecutableName": "MainServer.exe",
+    "DllPath": "D:\\a3server\\4MainServer\\OpenMainServerMods.dll"
+  }
+]
